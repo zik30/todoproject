@@ -1,0 +1,25 @@
+.label{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: #e9c89d;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #221b15;
+    padding-left: 5px;
+    font-size: 16px;
+    border: solid 5px rgb(223, 117, 4);
+    transition: 0.5s;
+}
+button{
+    height: 40px;
+    background-color: orange;
+    color: hsl(35, 26%, 18%);
+    border-radius: 10px;
+    border: #e9c89d 2px solid;
+}
